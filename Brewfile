@@ -75,6 +75,7 @@ cask 'font-source-serif-pro'
 
 # Mac App Store
 mas 'AusweisApp Bund', id: 948660805
+mas 'CopyClip - Clipboard History', id: 595191960
 mas 'Proton Pass - Password Manager', id: 6443490629
 mas 'Pure Paste', id: 1611378436
 mas 'HotKey App', id: 975890633
