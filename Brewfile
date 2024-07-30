@@ -20,6 +20,7 @@ brew 'stripe/stripe-cli/stripe'
 brew 'stripe/stripe-mock/stripe-mock'
 brew 'svn' # Needed to install fonts
 
+
 # Spatie Medialibrary
 brew 'jpegoptim'
 brew 'optipng'
@@ -46,6 +47,7 @@ cask 'latest'
 cask 'linearmouse'
 cask 'megasync'
 cask 'notion'
+cask 'pms'
 cask 'pycharm-ce'
 cask 'raycast'
 cask 'rectangle'
@@ -56,7 +58,6 @@ cask 'the-unarchiver'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
-cask 'zoxide'
 
 # Quicklook
 cask 'qlmarkdown'
